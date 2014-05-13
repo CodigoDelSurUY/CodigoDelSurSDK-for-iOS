@@ -7,7 +7,7 @@ The SDK we use in all our iOS projects
 
 ###Using Cocoapods
 
-1) Add our private pods repo. Run the following in a `Terminal` window:
+1) Add our private pods repo by running the following in a `Terminal` window:
 
 ```
 pod repo add CodigoDelSurSDK https://github.com/codigodelsur/CodigoDelSur-Specs.git
