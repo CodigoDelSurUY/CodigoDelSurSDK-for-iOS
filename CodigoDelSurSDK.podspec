@@ -1,6 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = 'CodigoDelSurSDK'
   s.version      = '1.0.0'
+  s.platform = :ios
   s.summary      = 'Utilities framework we use at CodigoDelSur for all our iOS projects'
   s.author = {
     'Nicolas Jakubowski' => 'njakubowski@codigodelsur.com'
