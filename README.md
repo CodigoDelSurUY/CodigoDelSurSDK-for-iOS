@@ -1,4 +1,4 @@
-CodigoDelSurSDK-for-iOS
+CodigoDelSurSDK for iOS
 =======================
 
 The SDK we use in all our iOS projects
