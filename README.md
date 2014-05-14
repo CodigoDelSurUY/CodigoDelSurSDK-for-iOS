@@ -19,10 +19,13 @@ pod repo add CodigoDelSurSDK https://github.com/codigodelsur/CodigoDelSur-Specs.
 pod 'CodigoDelSurSDK'
 ```
 
+3) Import `CodigoDelSurSDK.h` in your project's prefix file.
+
 ###Manually
 
 1) Clone this repo
 2) Copy everything inside the `CodigoDelSurSDK` folder in your project.
+3) Import `CodigoDelSurSDK.h` in your project's prefix file.
 
 ##Categories
 
