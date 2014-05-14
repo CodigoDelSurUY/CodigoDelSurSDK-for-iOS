@@ -26,8 +26,6 @@ pod 'CodigoDelSurSDK'
 
 ##Categories
 
-- UIAlertView
-
 ####UIAlertView
 
 - Show a simple message
