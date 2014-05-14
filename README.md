@@ -26,6 +26,12 @@ pod 'CodigoDelSurSDK'
 
 ##Categories
 
-TODO: list categories
+- UIAlertView
 
 ####UIAlertView
+
+- Show a simple message
+
+```objc
+[UIAlertView showMessage:@"Hello world"];
+```
