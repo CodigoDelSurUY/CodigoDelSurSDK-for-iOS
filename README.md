@@ -24,7 +24,9 @@ pod 'CodigoDelSurSDK'
 ###Manually
 
 1) Clone this repo
+
 2) Copy everything inside the `CodigoDelSurSDK` folder in your project.
+
 3) Import `CodigoDelSurSDK.h` in your project's prefix file.
 
 ##Categories
