@@ -7,7 +7,7 @@
 //
 
 #if !__has_feature(objc_arc)
-#error SVProgressHUD is ARC only. Either turn on ARC for the project or use -fobjc-arc flag
+#error CodigoDelSurSDK is ARC only. Either turn on ARC for the project or use -fobjc-arc flag
 #endif
 
 /**
